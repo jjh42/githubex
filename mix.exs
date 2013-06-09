@@ -17,6 +17,6 @@ defmodule Github.Mixfile do
   defp deps do
     [{:httpotion,"0.1.0",[github: "myfreeweb/httpotion"]},
 		{:jsonex,"2.0",[github: "marcelog/jsonex", tag: "2.0"]},
-    {:meck,"0.7.2", [github: "eproxus/meck"]}]
+    {:mock, "0.0.1", [github: "jjh42/mock"]}]
   end
 end

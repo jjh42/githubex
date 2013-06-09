@@ -1,5 +1,6 @@
-[ "httpotion": {:git,"https://github.com/myfreeweb/httpotion.git","85a1809e72b1742f8573a25ce055610175cfef5d",[]},
+[ "httpotion": {:git,"https://github.com/myfreeweb/httpotion.git","7ed1b298ecbfcf7452291ac640763a100472e66b",[]},
   "ibrowse": {:git,"https://github.com/cmullaparthi/ibrowse.git","b2c3f404ea3c4bdfabab8d110d7f41db07ef65c7",[]},
   "jsonex": {:git,"https://github.com/marcelog/jsonex.git","746c8492d66e130ee74cb2d857f8458fe3a2c0e2",[tag: "2.0"]},
   "jsx": {:git,"https://github.com/talentdeficit/jsx.git","cb14b92a228e51f7bdcaa7eb17f035e4a5c0b47d",[tag: "v1.3.3"]},
-  "meck": {:git,"https://github.com/eproxus/meck.git","161e240166a0d20e9ffa2be5d0bfa6a981f12aef",[]} ]
+  "meck": {:git,"https://github.com/eproxus/meck.git","161e240166a0d20e9ffa2be5d0bfa6a981f12aef",[]},
+  "mock": {:git,"https://github.com/jjh42/mock.git","ca9a9fae6888e53ca44a4156bad2a7e1c01d0e76",[]} ]
